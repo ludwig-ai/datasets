@@ -19,4 +19,4 @@ For example, the dataset can now be accessed as "https://raw.githubusercontent.c
 >>> 
 ```
 
-Hence, it will no longer be necessary to upload example datasets into Google Drive and mount the latter in Google Colab notebooks.
+Hence, it will no longer be necessary to upload datasets into Google Drive and mount the drive in Colab notebooks.
