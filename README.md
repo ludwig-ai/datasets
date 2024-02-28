@@ -18,3 +18,5 @@ For example, the dataset can now be accessed as "https://raw.githubusercontent.c
 4      0  Who was Fahim Saleh, the tech CEO brutally dis...  Fahim Saleh was a tech entrepreneur who lived ...         4
 >>> 
 ```
+
+Hence, it will no longer be necessary to upload example datasets into Google Drive and mount the latter in Google Colab notebooks.
