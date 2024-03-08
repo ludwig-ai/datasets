@@ -26,4 +26,4 @@ For example, the dataset can now be accessed as "https://raw.githubusercontent.c
 Hence, it will no longer be necessary to upload datasets into Google Drive and mount the drive in Colab notebooks.
 
 # Acknowledgments / Credits / References
-* TLDRNews - obtained from [https://huggingface.co/datasets/JulesBelveze/tldr_news](https://huggingface.co/datasets/JulesBelveze/tldr_news) thanks to a gracious permission by the author, [Jules Belveze](https://www.linkedin.com/in/jules-belveze/) 
+* TLDRNews - obtained from [https://huggingface.co/datasets/JulesBelveze/tldr_news](https://huggingface.co/datasets/JulesBelveze/tldr_news), thanks to a gracious permission by the author, [Jules Belveze](https://www.linkedin.com/in/jules-belveze/).
